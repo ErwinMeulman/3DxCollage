@@ -1,5 +1,5 @@
 # 3DxCollage
-3Dconnexion Image Viewer
+3Dconnexion 2D Image Viewer
 
 ![Screenshot](https://github.com/ErwinMeulman/3DxCollage/blob/main/3DxCollage.jpg)
 
